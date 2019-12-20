@@ -14,8 +14,6 @@ int main()
     
     cin >> cnt[0] >> cnt[1] >> cnt[2] >> cnt[3];
     
-    
-
     int total = cnt[0] + cnt[1] + cnt[2] + cnt[3];
 
     // 循环，num个数是否为0
